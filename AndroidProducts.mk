@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_guacamole.mk
+    $(LOCAL_DIR)/dot_guacamole.mk
